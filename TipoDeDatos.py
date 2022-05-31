@@ -1,0 +1,36 @@
+##TIPOS DE DATOS
+
+# STRING - LETRAS - TEXTO
+from pickle import FALSE, TRUE
+
+
+saludo = "hola Mar"
+print (saludo)
+print ("Bye" + " " + "Boys")
+
+# INT - NUMEROS ENTEROS
+print (10 + 2)
+
+#FLOAT- Decimales
+print (10.2 - 4.7)
+
+#BOLEAN
+TRUE
+FALSE
+
+#LIST DE CUALQUIER TIPO DE DATO, PUEDEN SER DE DIFERENTE TIPO
+    #SE PUEDEN MODIFICAR LOS DATOS DENTRO DE LA MISMA
+    #SE PUEDE CREAR UNA LISTA VACIA
+[10 , 20 , AZUL , 70.5 , NUBE]
+
+#TUPLES
+    #ES UNA LISTA QUE NO SE PUEDE CAMBIAR
+    # SE PUEDE CREAR UNA TUPLES VACIA
+(10 , 20 , 30)
+
+#DICTORIONIES
+{
+"nombre" : "BRAD",
+"Apellido" : "SOUL"
+}
+
